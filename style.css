@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#head {
+    text-align: center;
+    padding: 2rem;
+}
+#para {
+    text-align: center;
+    padding: 2rem;
+}
+#btn{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    text-align: center;
+    background-color: red;
+    color: #fff;
+    padding: 5px 15px;
+    font-size: 15px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    cursor: pointer;
+}
